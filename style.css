@@ -1,0 +1,28 @@
+.top-section {
+  background-color: #264653;
+}
+.purchase-button {
+  background-color: #e76f51;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  font-size: 16px;
+}
+.gray-filter {
+  filter: grayscale(100%);
+}
+.card-body {
+  text-align: center;
+}
+.happy-clients h1 {
+  text-align: center;
+}
+.star-colored {
+  color: #e76f51;
+}
+.review-author {
+  color: #23a6f0;
+}
+.reviewer-occupation {
+  font-weight: bold;
+}
